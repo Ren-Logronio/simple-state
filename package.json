@@ -1,0 +1,11 @@
+{
+  "name": "simple-state",
+  "version": "0.0.1",
+  "description": "a simple state management for the dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"\""
+  },
+  "author": "Ren-Logronio",
+  "license": "ISC"
+}
