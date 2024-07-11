@@ -2,7 +2,7 @@
 
 SimpleState is a super simple state management library designed in hopes to get reactivity as close to vanilla web development.
 
-#### Key Features
+### Key Features
 
 - declaring state via SimpleState class
 - get and set methods
@@ -11,7 +11,7 @@ SimpleState is a super simple state management library designed in hopes to get 
 - state actions
 - no other dependencies required (right now)
 
-#### Usage
+### Usage
 
 **Creating a state**
 
